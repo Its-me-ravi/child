@@ -5,6 +5,7 @@ function ParentsCorner() {
     <div>
       <h1>Parents Corner</h1>
       <p>This is the Parents Corner pages.</p>
+      <p>This is the Parents Corner pages.</p>
     </div>
   );
 }
